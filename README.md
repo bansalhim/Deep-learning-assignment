@@ -1,47 +1,22 @@
-# Deep-learning-assignment
+# Deep Learning Repository (UCS761)
 
-This repository contains code  for Deep Learning assignments.
-
----
-
-## 🧠 Course Information
-**Course Title:** Deep Learning  
-**Instructor:** Sukhpal Singh    
+**Name:** Himanshu Bansal
+**Roll No:** 102303786
 
 ---
 
-## 📂 Repository Structure
-DeepLearning_Assignments/  
-├── Assignment_1/ (Basics of Neural Networks)  
-├── Assignment_2/ (CNNs and Image Classification)  
-├── Assignment_3/ (Model Optimization and Evaluation)  
-└── README.md  
+## 📂 Repository Content
+
+This repository contains solutions and reports for the following labs:
+
+| Lab | Title |
+| :--- | :--- |
+| **Lab 3** | **Logistic Regression as soft decision model** |
+| **Lab 4** | **Multiple linear regression using linear perceptron** |
+| **Lab 5** | **Linear regression neuron** |
+| **Lab 6** | **Learning to bend model** |
+| **Lab 7** | **From Numbers to Vision: Building, Breaking, Comparing** |
 
 ---
 
-## 🧾 Contents
-- **Assignment 1:** Basics of Neural Networks  
-- **Assignment 2:** CNNs and Image Classification  
-- **Assignment 3:** Deep Learning Model Optimization and Evaluation  
-
----
-
-## ⚙️ Tools & Frameworks Used
-- Python 3.x  
-- TensorFlow / Keras / PyTorch  
-- NumPy, Pandas, Matplotlib, Seaborn  
-- Jupyter Notebook / Google Colab  
-
----
-
-## 📅 Submission Details
-- **Deadline:** As per course schedule  
-- **Evaluation:** Based on correctness, code quality, and conceptual understanding  
-
----
-
-## 👨‍🎓 Student Details
-**Name:** Himanshu Bansal  
-**Roll No:** 102303786  
-**Course:** Deep Learning  
-**Instructor:** Sukhpal Singh  
+ 
